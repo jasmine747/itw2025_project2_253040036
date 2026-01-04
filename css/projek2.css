@@ -2,7 +2,7 @@
   scroll-behavior: smooth;
 }
 
-#Description {
+#Project {
   color: #fff;
 }
 
@@ -100,4 +100,9 @@ section {
 
 .menu-box:hover .menu-img {
   transform: translate3d(-50%, -52%, 100px) rotate(5deg) scale(1.2);
+}
+
+.tulisan {
+  margin-left: 40px;
+  color: #fff;
 }
